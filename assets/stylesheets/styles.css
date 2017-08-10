@@ -1,0 +1,62 @@
+/* styles.css */
+body {
+ background-color: #e7e8e9;
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 0;
+ padding: 0;
+ font-size:16px;
+ line-height: 20px;
+}
+
+div.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+}
+
+h2.recipeInstructions {
+  text-align: left;
+}
+
+ul {
+  text-align:left;
+}
+
+.tableFavRestaurants {
+  border: 2px solid black;
+  text-align:center;
+  width: 100%;
+}
+
+.tdRestaurantName {
+  text-align: center;
+  width: 20%;
+}
+
+.imgMyKitchen {
+  display: block;
+    margin: 0 auto;
+}
+
+p.cookInstructions {
+  text-align: left;
+}
+
+form {
+
+  padding: 10px;
+  border: 2px solid #000000;
+  border-radius: 2px;
+  margin: 0 auto;
+  width: 500px;
+
+}
+
+label {
+  display: inline-block;
+  width: 80px;
+  text-align: left;
+}
